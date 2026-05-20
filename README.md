@@ -1,8 +1,4 @@
-# Final Project Docker - 2415354046
-
-## Identitas Mahasiswa
-- Nama:I Kadek Hengky Sukma Wibawa
-- NIM: 2415354046
+# Final Project Docker 
 
 ## Deskripsi Project
 Aplikasi User Service berbasis REST API menggunakan Node.js dan MySQL
