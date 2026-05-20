@@ -24,6 +24,7 @@ yang dijalankan dengan Docker Compose.
 | DELETE | /users/:id | Hapus user |
 
 ## Struktur Project
+```
 project-app/
 ├── app/
 │   ├── app.js
@@ -32,3 +33,4 @@ project-app/
 │   ├── .env
 │   └── package.json
 └── docker-compose.yml
+```
