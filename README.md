@@ -35,7 +35,7 @@ project-app/
 └── docker-compose.yml
 ```
 
-## Screenshot Pengujian API
+## Dokumentasi Pengujian Endpoint API Melalui Postman
 
 ### 1. GET /users - Ambil Semua User
 ![GET /users](https://github.com/user-attachments/assets/5198b48f-51d8-45f1-9081-c3a5de6d1f19)
